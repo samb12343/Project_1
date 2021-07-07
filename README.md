@@ -14,10 +14,10 @@ We created collected and cleaned the data laying out the benefits of implementin
 
 I've collected and cleaned the data from multiple sources specifically their financial reports. I have cleaned all the data into a single .csv file.
 
-**Data Included**
-| Years  | Type of Data  |
+**Data Includes**
+| Date  | Type of Data  |
 | ------------- | ------------- |
-|2017-Present |Crude Oil Production |
+|1920-Present |Crude Oil Production |
 | 2017-Present |  Operational Costs  |
 | 2017-Present | Cost of Revenue  |
 | 2017-Present | Total Expenses |
