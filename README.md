@@ -17,10 +17,10 @@ I've collected and cleaned the data from multiple sources specifically their fin
 **Data Included**
 | Years  | Type of Data  |
 | ------------- | ------------- |
-|2017-Present |Amount of Oil Produced |
-| 2017-Present |  Revenue  |
-| 2017-Present | Profit  |
-| 2017-Present | Expense |
+|2017-Present |Crude Oil Production |
+| 2017-Present |  Operational Costs  |
+| 2017-Present | Cost of Revenue  |
+| 2017-Present | Total Expenses |
 
 **Potential Data Issues**
 
