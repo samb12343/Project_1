@@ -8,7 +8,7 @@
 ## Basis
 We are a team hired by a small oil company to see the benefits of integrating blockchain into the company software replacing their ledger and use of contracts to see if they should utilize this "new" technology.
 
-We created collected and cleaned the data laying out the benefits of adf
+We created collected and cleaned the data laying out the benefits of implementing blockchain.
 
 ## Data
 
