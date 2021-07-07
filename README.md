@@ -25,3 +25,7 @@ I've collected and cleaned the data from multiple sources specifically their fin
 **Potential Data Issues**
 
 * Since the technology is so new, a majority of oil companies begain using the blockchain technology in 2019 and politics due to a change in president meaning new regulations. This results in only focusing on the year 2019-2020.
+
+
+Finalized Data: [Chevron and ExxonMobil Financial Statements](Finalized_Data.csv)
+                [Crude Oil Production](Crude_Oil_Production.csv)
