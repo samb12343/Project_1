@@ -8,7 +8,9 @@
 ## Basis
 I've been hired by a small oil company to see the benefits of integrating blockchain into the company software replacing their ledger and use of contracts to see if they should utilize this "new" technology.
 
-We created collected and cleaned the data laying out the benefits of implementing blockchain.
+Blockchain is a new technology that is barely a decade old (although founded in 1991, it was not used until 2009). The possibilities of what the technology can do is still unknown as industries are slowly implementing the technology. Currently, what attracts industries to the technology is the decentralized ledger and smart contract system it offers. In the oil industry,this cuts out time spent on waiting on both parties to get back with each other when both of their sides of the contract are fullfilled before drilling for oil. The goal of this technology is to cut time wasted (workers not drilling being forced to stand around waiting for the next drill to happen due to the long process of both parties communicating with each other).
+
+I created collected and cleaned the data displaying the cut of costs through the implementation of blockchain.
 
 ## Data
 
