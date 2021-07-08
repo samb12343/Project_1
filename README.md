@@ -49,14 +49,14 @@ It is extremely important to remember the following:
 
 Blockchain has proven to be an effective technology in cutting expenses by replacing human middlemen with automation. The less time required to wait on the response from another party results in more drill time equating to more oil production. With more time required to wait on the response from another party, companies are wasting paid hours on their labor force ultimately a problem they face on a large scale. 
 
-CHEVRON
+# Chevron
 | Breakdown  | TTM | 2019-2020 | 2018-2019 | 2017-2018 |
 | ------------- | ------------- |---| --- | --- | 
 |Operational Costs| 30,736,000 USD |30,572,000 USD |30,459,000 USD |37,080,000 USD |
 |Cost of Revenue | 72,053,000 USD | 69,996,000 USD | 109,331,000 USD |95,114,00 USD |
 |Total Expenses | 102,789,000 USD |139,765,000 USD |144,456,000 USD | 132,194,00 USD |
 
-EXXONMOBIL
+# ExxonMobil
 | Breakdown  | TTM | 2019-2020 | 2018-2019 | 2017-2018 |
 | ------------- | ------------- |---| --- | --- | 
 |Operational Costs| 37,575,000 USD |43,192,000 USD |45,609,000 USD |42,850,000 USD |
