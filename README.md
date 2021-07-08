@@ -47,8 +47,6 @@ It is extremely important to remember the following:
 * COVID-19
 * The election of a new president in 2020 resulting in new regulations.
 
-Blockchain has proven to be an effective technology in cutting expenses by replacing human middlemen with automation. The less time required to wait on the response from another party results in more drill time equating to more oil production. With more time required to wait on the response from another party, companies are wasting paid hours on their labor force ultimately a problem they face on a large scale. 
-
 # Chevron
 | Breakdown  | TTM | 2019-2020 | 2018-2019 | 2017-2018 |
 | ------------- | ------------- |---| --- | --- | 
@@ -62,3 +60,5 @@ Blockchain has proven to be an effective technology in cutting expenses by repla
 |Operational Costs| 37,575,000 USD |43,192,000 USD |45,609,000 USD |42,850,000 USD |
 |Cost of Revenue | 169,915,000 USD | 199,625,000 USD | 211,599,000 USD |182,238,000 USD |
 |Total Expenses | 207,043,000 USD |242,817,000 USD |257,208,000 USD | 1225,088,000 USD |
+
+* Blockchain has proven to be an effective technology in cutting expenses by replacing human middlemen with automation. The less time required to wait on the response from another party results in more drill time equating to more oil production. With more time required to wait on the response from another party, companies are wasting paid hours on their labor force ultimately a problem they face on a large scale. 
