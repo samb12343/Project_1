@@ -1,8 +1,8 @@
-# Project 1
+## Project 1
 
 ![HeaderPicture](BlockchainHeader.png)
 
-# <p align="center"> Blockchain in Oil and gas </p>
+## <p align="center"> Blockchain in Oil and gas </p>
   <p align="center"> How has the utlization of blockchain replacing traditional ledgers and contracts effected the oil and gas industry? </p>
   
 ## Basis
