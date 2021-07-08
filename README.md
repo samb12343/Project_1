@@ -31,3 +31,34 @@ I've collected and cleaned the data from multiple sources specifically their fin
 
 Finalized Data: [Chevron and ExxonMobil Financial Statements](Finalized_Data.csv) &
                 [Crude Oil Production](Crude_Oil_Production.csv)
+
+## Procedure
+
+* The official financial statements were provided by Chevron and ExxonMobil via PDF. The PDFs were downloaded and put into an excel spreadsheet. This was used to determine their expenses over the years.
+* The API from Yahoo Finance was used to pull additional Chevron and ExxonMobil finanical statement information not found in their reports on their website. This was used to determine their expenses over the years and to see when the companies began implementing blockchain replacing their ledgers and contract system.
+* The API from U.S. Energy Information Administration was pulled in order to get the number of crude oil production in the United States. This was used to determine if the amount of crude oil production could be correlated the lowered expenses besides blockchain.
+
+## Analysis
+
+It is extremely important to remember the following:
+* Blockchain is a new technology.
+* Chevron and ExxonMobil began using it 2019.
+* The primary goal was to cut expenses (replacing human middlemen with automation specifically smart contracts).
+* COVID-19
+* The election of a new president in 2020 resulting in new regulations.
+
+Blockchain has proven to be an effective technology in cutting expenses by replacing human middlemen with automation. The less time required to wait on the response from another party results in more drill time equating to more oil production. With more time required to wait on the response from another party, companies are wasting paid hours on their labor force ultimately a problem they face on a large scale. 
+
+CHEVRON
+| Breakdown  | TTM | 2019-2020 | 2018-2019 | 2017-2018 |
+| ------------- | ------------- |---| --- | --- | 
+|Operational Costs| 30,736,000 USD |30,572,000 USD |30,459,000 USD |37,080,000 USD |
+|Cost of Revenue | 72,053,000 USD | 69,996,000 USD | 109,331,000 USD |95,114,00 USD |
+|Total Expenses | 102,789,000 USD |139,765,000 USD |144,456,000 USD | 132,194,00 USD |
+
+EXXONMOBIL
+| Breakdown  | TTM | 2019-2020 | 2018-2019 | 2017-2018 |
+| ------------- | ------------- |---| --- | --- | 
+|Operational Costs| 37,575,000 USD |43,192,000 USD |45,609,000 USD |42,850,000 USD |
+|Cost of Revenue | 169,915,000 USD | 199,625,000 USD | 211,599,000 USD |182,238,000 USD |
+|Total Expenses | 207,043,000 USD |242,817,000 USD |257,208,000 USD | 1225,088,000 USD |
